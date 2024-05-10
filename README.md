@@ -3,7 +3,7 @@ This project delves into a dataset focused on heart diagnostic disease to extrac
 ## Methodology
 - Obtaining a statistical overview of the dataset.
 - Generating a correlation matrix to identify relationships between attributes.
-- Utilizing seaborn and matplotlib for data visualization to glean additional insights.
+- Utilizing seaborn and matplotlib for data visualization to get additional insights.
 - Employing machine learning algorithms to forecast heart disease.
 
 
